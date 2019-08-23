@@ -15,7 +15,10 @@ E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\bin\Relea
 E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\bin\Release\netcoreapp2.2\ServiceSubscription.Core.pdb
 E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\bin\Release\netcoreapp2.2\ServiceSubscription.Infrastructure.dll
 E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\bin\Release\netcoreapp2.2\ServiceSubscription.Infrastructure.pdb
-E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.csprojResolveAssemblyReference.cache
 E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.AssemblyInfo.cs
 E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.dll
 E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.pdb
+E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.csprojAssemblyReference.cache
+E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.csproj.CoreCompileInputs.cache
+E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.AssemblyInfoInputs.cache
+E:\ServiceSubscription\SeviceSubscription.API\ServiceSubscription.Core\obj\Release\netcoreapp2.2\ServiceSubscription.Core.csproj.CopyComplete

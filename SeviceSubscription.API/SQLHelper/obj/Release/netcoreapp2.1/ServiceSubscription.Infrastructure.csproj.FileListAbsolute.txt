@@ -10,7 +10,9 @@ E:\Assessment\SeviceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\ne
 E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\bin\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.deps.json
 E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\bin\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.dll
 E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\bin\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.pdb
-E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.csprojResolveAssemblyReference.cache
 E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.AssemblyInfo.cs
 E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.dll
 E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.pdb
+E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.csprojAssemblyReference.cache
+E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ServiceSubscription\SeviceSubscription.API\SQLHelper\obj\Release\netcoreapp2.1\ServiceSubscription.Infrastructure.AssemblyInfoInputs.cache
