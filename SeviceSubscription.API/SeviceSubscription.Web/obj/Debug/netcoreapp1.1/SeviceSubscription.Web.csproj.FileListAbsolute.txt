@@ -1,0 +1,9 @@
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\bin\Debug\netcoreapp1.1\SeviceSubscription.Web.deps.json
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\bin\Debug\netcoreapp1.1\SeviceSubscription.Web.runtimeconfig.json
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\bin\Debug\netcoreapp1.1\SeviceSubscription.Web.runtimeconfig.dev.json
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\bin\Debug\netcoreapp1.1\SeviceSubscription.Web.dll
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\bin\Debug\netcoreapp1.1\SeviceSubscription.Web.pdb
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\obj\Debug\netcoreapp1.1\SeviceSubscription.Web.csprojResolveAssemblyReference.cache
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\obj\Debug\netcoreapp1.1\SeviceSubscription.Web.AssemblyInfo.cs
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\obj\Debug\netcoreapp1.1\SeviceSubscription.Web.dll
+E:\Assessment\SeviceSubscription\SeviceSubscription.API\SeviceSubscription.Web\obj\Debug\netcoreapp1.1\SeviceSubscription.Web.pdb

@@ -1,0 +1,14 @@
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\bin\Debug\netcoreapp2.1\SQLHelper.deps.json
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\bin\Debug\netcoreapp2.1\SQLHelper.dll
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\bin\Debug\netcoreapp2.1\SQLHelper.pdb
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.AssemblyInfo.cs
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.dll
+C:\Users\Alina\Downloads\SQLHelper-With-ADO.NET-master\SQLHelper-With-ADO.NET-master\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.pdb
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\bin\Debug\netcoreapp2.1\SQLHelper.deps.json
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\bin\Debug\netcoreapp2.1\SQLHelper.dll
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\bin\Debug\netcoreapp2.1\SQLHelper.pdb
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.csprojResolveAssemblyReference.cache
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.AssemblyInfo.cs
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.dll
+E:\Assessment\SeviceSubscription\SeviceSubscription\SQLHelper\obj\Debug\netcoreapp2.1\SQLHelper.pdb
