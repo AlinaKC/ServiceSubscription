@@ -1,0 +1,18 @@
+﻿<h1>Home</h1>
+<div *ngIf="userFromApi">Welcome {{userFromApi.firstName}} {{userFromApi.lastName}}</div>
+
+
+<!-- <button (click)="unsubscribeClick($event)" type="button" *ngIf="!unSubscribe;then content else other_content">UnSubscribe</button> -->
+
+<div *ngIf="!unSubscribe">
+<button (click)="unsubscribeClick($event)" type="button" *ngIf="isInstallationSubscribe || isMaintenanceSubscribe">UnSubscribe</button>
+
+<h5>installation ($60 one time)</h5>
+<input type="checkbox" [checked]="isInstallationSubscribe" [disabled]="isInstallationSubscribe" id="chkInstallation" name="chkInstallation" (change)="handleInstallationSelected($event)">
+<br/>
+<h5>maintenance ($5 per month) </h5>
+<input type="checkbox" [checked]="isMaintenanceSubscribe" [disabled]="!isInstallationSubscribe || isMaintenanceSubscribe" id="chkMaintenance" name="chkMaintenance" (change)="handleMaintenanceSelected($event)">
+</div>
+<div *ngIf="unSubscribe">You have UnSubscribe the service!
+<button (click)="resubscribeClick($event)" type="button">Subscribe</button>
+</div>
